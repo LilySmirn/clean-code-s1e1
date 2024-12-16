@@ -8,13 +8,16 @@ body {
   width: 500px;
   margin: 0 auto;
   display: block;
-  text-align: right;
+  text-align: center;
 }
 .img-link img {
   width: 100%;
 }
 .img-link .more-inf {
   font-family: fantasy, cursive;
+}
+.img {
+  width: 500px;
 }
 
 @media (max-width:768px) {
