@@ -10,15 +10,15 @@ body {
   display: block;
   text-align: right;
 }
-.aaa img {
+.img-link img {
   width: 100%;
 }
-.aaa .more-inf {
+.img-link .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .aaa { text-align: center;
+  .img-link { text-align: center;
   }
 }
 .main-page {
